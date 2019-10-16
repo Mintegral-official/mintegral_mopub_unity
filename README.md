@@ -1,6 +1,6 @@
 # mintegral_mopub_unity
 
-Thanks for taking a look at Mintegral! We take pride in having an easy-to-use.
+Thanks for taking a look at Mintegral! 
 
 Sign up for an account at https://www.mintegral.com/
 
